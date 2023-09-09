@@ -32,5 +32,4 @@ elif operation == "**":
 elif operation == "//":
     print("The floor division of the two numbers is: ", int(num1) // int(num2))
 else:
-    print("Invalid operation")
-    
+    print("Invalid operatig given")
